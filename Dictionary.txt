@@ -1,0 +1,33 @@
+\_sh v3.0  231  MDF 4.0
+
+\lx an
+\ps pron
+\ge I
+\xv an ni lɨŋɨnli fəria ʃaxun
+\xe I should go to his house
+\dt 25/Mar/2022
+
+\lx gədɨŋ
+\ps n
+\ge dog
+\xv ən gədɨn kaʔartan səxa
+qʷaːk
+\xe If the dog is hungry, he eats meat
+\sd animals
+\so Abdurrahman Mohammed, S1
+\dt 25/Mar/2022
+
+\lx səxa
+\ps n
+\ge meat
+\xv ən gədɨn kaʔartan səxa
+qʷaːk
+\xe If the dog is hungry, he eats meat
+\sd food
+\so Abdurrahman Mohammed, S1
+\dt 25/Mar/2022
+
+\lx ʔəntən
+\ps pron
+\ge you (SG)
+\dt 25/Mar/2022

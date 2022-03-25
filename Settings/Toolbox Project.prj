@@ -1,0 +1,152 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.6.4 May 2019
+\ProjectPath C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Linguistische Tools\Toolbox\Toolbox New Project\Settings\Toolbox Project.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstCorpus Text
+\WordLstLimitCount
+\WordLstMaxCount 10
+\ConcordanceCorpus Text
+\ConcordanceSearch sæmpl̩
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput Concordance.db
+\+Corpus Free translation
+\FilesList C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Linguistische Tools\Toolbox\Toolbox New Project\Texts.txt
+\lng English
+\WordMarkers \ft
+\BookMarker \ref
+\WordIndex C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Linguistische Tools\Toolbox\Toolbox New Project\Freetran.wi
+\WordListOutput wordlistft.db
+\-Corpus
+\+Corpus Text
+\FilesList C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Linguistische Tools\Toolbox\Toolbox New Project\Texts.txt
+\lng vernacular
+\WordMarkers \tx
+\BookMarker \ref
+\WordIndex C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Linguistische Tools\Toolbox\Toolbox New Project\Text.wi
+\WordListOutput wordlist.db
+\-Corpus
+\-CorpusSet
+\LangCtrlHeight 24
+\DontValidateOnEdit
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain normal -1 -1 -1 -1 230 180 1222 964
+\+dblst 
+
+\+db C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Linguistische Tools\Toolbox\Toolbox New Project\Dictionary.txt
+\+wndlst 
+\+wnd 
+\placement normal 480 437 -8 -31 412 203 952 652
+\z 1
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 134
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 157
+\-brf
+\+brf 
+\mkr ps
+\width 120
+\-brf
+\+brf 
+\mkr ge
+\width 223
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey abcde
+\mkrSecKey hm
+\-ind
+\+rec 
+\fldPriKey səxa
+\fldSecKey
+\-rec
+\+keySearch 
+\fldPri gədɨŋ
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri səxa
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 4
+\CaretLineScroll 4
+\CaretChar 35
+\-wnd
+\-wndlst
+\-db
+
+\+db C:\Users\saras\Documents\Ausbildung\Universitaet\Linguistik\Bilin\Bilin toolbox
+\+wndlst 
+\+wnd 
+\placement normal 0 635 -1 -1 -1 -1 788 296
+\z 0
+\ViewMarkers
+\widthMarkerArea 69
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ref
+\width 96
+\-brf
+\+brf 
+\mkr tx
+\width 304
+\-brf
+\+brf 
+\mkr ft
+\width 349
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ref
+\srtPriKey English
+\-ind
+\+rec 
+\fldPriKey
+\-rec
+\+keySearch 
+\fldPri SG
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri an
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 2
+\CaretLineScroll 2
+\CaretChar 0
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\match_char p
+\+ftxlst 
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings
